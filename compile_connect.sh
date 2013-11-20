@@ -1,0 +1,1 @@
+gcc -I/usr/include/postgresql/ -L/usr/lib/postgresql/8.3/lib/ -lpq -o connect connect.c
